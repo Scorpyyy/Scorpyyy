@@ -1,8 +1,10 @@
 <h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
-### :smiley_cat: I am a student at ST. CLARE COLLEGE OF CALOOCAN
+### I am a student at ST. CLARE COLLEGE OF CALOOCAN
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+## Sorry for bad statistics😄
 
 ## By the way here are some of my statistics 🚀
 ![Scorpyyy's github stats](https://github-readme-stats.vercel.app/api?username=Scorpyyy&show_icons=true&theme=tokyonight)
