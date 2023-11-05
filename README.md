@@ -6,11 +6,6 @@
 
 ## Sorry for bad statistics😄
 
-## By the way here are some of my statistics 🚀
-![Scorpyyy's github stats](https://github-readme-stats.vercel.app/api?username=Scorpyyy&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Scorpyyy&theme=tokyonight" alt="mystreak"/>
-![Scorpyyy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scorpyyy&theme=tokyonight&layout=compact)
-
 🌱 I’m currently learning Frontend Developing 
 
 I'm really not into github and i'm still learning..
