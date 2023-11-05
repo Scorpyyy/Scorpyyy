@@ -6,7 +6,7 @@
 
 ## By the way here are some of my statistics 🚀
 ![Scorpyyy's github stats](https://github-readme-stats.vercel.app/api?username=Scorpyyy&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Scorpyyy&theme=tokyonight" alt="mystreak"/>
 ![Scorpyyy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scorpyyy&theme=tokyonight&layout=compact)
 
 🌱 I’m currently learning Frontend Developing 
@@ -17,10 +17,8 @@ I'm really not into github and i'm still learning..
 
 
 ------
-
-Last Edited on: 21/08/2021
 <!--
-**AkuraDiary/AkuraDIary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
