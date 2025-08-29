@@ -6,7 +6,7 @@
 
 ## Sorry for bad statistics😄
 
-🌱 I’m currently learning Frontend Developing 
+🌱 mle
 
 I'm really not into github and i'm still learning..
 
